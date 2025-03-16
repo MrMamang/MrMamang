@@ -24,3 +24,6 @@ i m studying<br>
 [![](https://visitcount.itsvg.in/api?id=MrMamang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/MrMamang/MrMamang/blob/output/github-contribution-grid-snake.gif)
